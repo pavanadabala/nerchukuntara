@@ -32,8 +32,8 @@ pavan and nischal 'joint' collaboration project to make world (nischal) a better
 - **Problem:** Declare a variable named 'greeting' with the value "Hello, World!". Display this in an alert.
 - 
 
-<!-- #### 9. Basic Arithmetic Operations
-- **Problem:** Declare two variables with numeric values. Calculate their sum, difference, product, and quotient. Log results to the console. -->
+#### 9. Basic Arithmetic Operations
+- **Problem:** Declare two variables with numeric values. Calculate their sum, difference, product, and quotient. Log results to the console.
 
 <!-- #### 10. Basic DOM Manipulation
 - **Problem:** Have a paragraph with some placeholder text in your HTML. Use JavaScript to change this text when a button is clicked. -->
