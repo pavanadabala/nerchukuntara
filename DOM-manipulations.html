@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic DOM Manipulation</title>
+</head>
+
+<body>
+    <h1>Change Paragraph Text Example</h1>
+
+    <p id="myParagraph">This is a Placeholder text.</p>
+
+    <button id="changeTextButton">Change Text</button>
+
+    <script>
+        var paragraph = document.getElementById("myParagraph");
+        var button = document.getElementById("changeTextButton");
+
+        button.addEventListener("click", function () {
+            paragraph.textContent = "chinni chinni aasaaa!";
+
+        })
+    </script>
+</body>
+
+</html>
