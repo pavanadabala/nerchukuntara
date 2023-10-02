@@ -22,8 +22,8 @@ pavan and nischal 'joint' collaboration project to make world (nischal) a better
 
 ### JavaScript Basics
 
-#### 6. Display Alert on Page Load
-- **Problem:** Write a script that shows an alert saying "Welcome to my website!" when the page is loaded.
+<!-- #### 6. Display Alert on Page Load
+- **Problem:** Write a script that shows an alert saying "Welcome to my website!" when the page is loaded. -->
 
 #### 7. Console Logging
 - **Problem:** Create a script that logs the message "This is a console message" to the browser's console.
