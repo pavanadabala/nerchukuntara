@@ -35,16 +35,16 @@ pavan and nischal 'joint' collaboration project to make world (nischal) a better
 #### 9. Basic Arithmetic Operations
 - **Problem:** Declare two variables with numeric values. Calculate their sum, difference, product, and quotient. Log results to the console.
 
-<!-- #### 10. Basic DOM Manipulation
-- **Problem:** Have a paragraph with some placeholder text in your HTML. Use JavaScript to change this text when a button is clicked. -->
+#### 10. Basic DOM Manipulation
+- **Problem:** Have a paragraph with some placeholder text in your HTML. Use JavaScript to change this text when a button is clicked.
 
 ### Setting up the Environment
 
 #### 11. Linking External JS Files
 - **Problem:** Create a separate JavaScript (.js) file and link it to your HTML. Write a function in this .js file to alert a greeting and call this function from an HTML button.
 
-#### 12. Browser Compatibility
-- **Problem:** Open your web page in at least three different browsers (e.g., Chrome, Firefox, Safari) and ensure it looks consistent.
+<!-- #### 12. Browser Compatibility
+- **Problem:** Open your web page in at least three different browsers (e.g., Chrome, Firefox, Safari) and ensure it looks consistent. -->
 
 #### 13. Basic Error Handling
 - **Problem:** Intentionally write a JavaScript error in your script (like a reference to an undeclared variable). Open the browser console to understand the error message and then fix it.
