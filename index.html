@@ -11,19 +11,23 @@
     <p>ra link kottu inka <a href="https://www.google.com" target="_blank">Google</a>.</p>
     <button id="greetButton">Click chesthe hi chepptha</button>
 
-    <button id="changeColorButton">Change Background Color</button>
+    <button id="changeColorButton">Change Colors</button>
 
     <script>
         console.log("Inline script: Message will be logged first. ");
 
-        function changeBackgroundColor() {
+        function changeColors() {
 
-            var randomColor = '#' + Math.floor(Math.random() * 16777215).toString(16);
+            var randomBackgroudColor = '#' + Math.floor(Math.random() * 16777215).toString(16);
+            var randomButtonTextColor = '#' + Math.floor(Math.random() * 16777215).toString(16);
 
-            document.body.style.backgroundColor = randomColor;
+
+            document.body.style.backgroundColor = randomBackgroudColor;
+
+            document.getElementById("changeColorButton").style.color = randomButtonTextColor;
         }
 
-        document.getElementById("changeColorButton").addEventListener("click", changeBackgroundColor);
+        document.getElementById("changeColorButton").addEventListener("click", changeColors);
 
     </script>
     <script src="script.js"></script>
