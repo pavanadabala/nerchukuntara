@@ -46,11 +46,11 @@ pavan and nischal 'joint' collaboration project to make world (nischal) a better
 #### 12. Browser Compatibility
 - **Problem:** Open your web page in at least three different browsers (e.g., Chrome, Firefox, Safari) and ensure it looks consistent.
 
-<!-- #### 13. Basic Error Handling
-- **Problem:** Intentionally write a JavaScript error in your script (like a reference to an undeclared variable). Open the browser console to understand the error message and then fix it. -->
+#### 13. Basic Error Handling
+- **Problem:** Intentionally write a JavaScript error in your script (like a reference to an undeclared variable). Open the browser console to understand the error message and then fix it.
 
-#### 14. Inline vs. External Scripts
-- **Problem:** Write two scripts: one inline in the HTML and one in an external .js file. Log different messages from each to understand the order of execution.
+<!-- #### 14. Inline vs. External Scripts
+- **Problem:** Write two scripts: one inline in the HTML and one in an external .js file. Log different messages from each to understand the order of execution. -->
 
 #### 15. Basic Event Handling
 - **Problem:** Create a button in your HTML. Write JavaScript so that when the button is clicked, the background color of the page changes.
