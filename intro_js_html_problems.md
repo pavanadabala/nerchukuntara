@@ -3,8 +3,8 @@
 ### 1. Hello World
 - **Problem:** Create an HTML button. When clicked, it should display an alert saying "Hello, World!" using JavaScript.
 
-### 2. Add Two Numbers
-- **Problem:** Create an HTML form with two input fields (for numbers) and a button. When the button is clicked, display the sum of the two numbers below the form using JavaScript.
+<!-- ### 2. Add Two Numbers
+- **Problem:** Create an HTML form with two input fields (for numbers) and a button. When the button is clicked, display the sum of the two numbers below the form using JavaScript. -->
 
 ### 3. Find the Largest Number
 - **Problem:** Create an HTML form with three input fields for numbers. Add a button that, when clicked, shows the largest of the three numbers using JavaScript.
