@@ -9,11 +9,11 @@
 ### 3. Find the Largest Number
 - **Problem:** Create an HTML form with three input fields for numbers. Add a button that, when clicked, shows the largest of the three numbers using JavaScript.
 
-<!-- ### 4. Even or Odd
-- **Problem:** Create an input field where a user can enter a number and a button. When the button is clicked, display if the entered number is even or odd using JavaScript. -->
+### 4. Even or Odd
+- **Problem:** Create an input field where a user can enter a number and a button. When the button is clicked, display if the entered number is even or odd using JavaScript.
 
-### 5. Calculate the Area of a Rectangle
-- **Problem:** Have two input fields for the length and width of a rectangle. Add a button that, when clicked, calculates and displays the area of the rectangle below the input fields.
+<!-- ### 5. Calculate the Area of a Rectangle
+- **Problem:** Have two input fields for the length and width of a rectangle. Add a button that, when clicked, calculates and displays the area of the rectangle below the input fields. -->
 
 ### 6. Positive, Negative, or Zero
 - **Problem:** Create an input field and a button. When the button is clicked, indicate if the number entered is positive, negative, or zero using JavaScript.
