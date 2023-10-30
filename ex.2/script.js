@@ -12,7 +12,10 @@ document.getElementById("checkLargeNum").addEventListener("click", function () {
         resultDiv.textContent = "Please enter valid number";
     } else {
         var largest = Math.max(num1, num2, num3);
+        // Calculate the sum and display it
+        // var sum = num1 + num2;
         resultDiv.textContent = "Largest Number:" + largest;
+        // resultDiv.textContent = "Sum: " + sum;
     }
 })
 
