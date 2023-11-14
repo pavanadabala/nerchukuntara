@@ -15,11 +15,11 @@
 ### 5. Calculate the Area of a Rectangle
 - **Problem:** Have two input fields for the length and width of a rectangle. Add a button that, when clicked, calculates and displays the area of the rectangle below the input fields.
 
-<!-- ### 6. Positive, Negative, or Zero
-- **Problem:** Create an input field and a button. When the button is clicked, indicate if the number entered is positive, negative, or zero using JavaScript. -->
+### 6. Positive, Negative, or Zero
+- **Problem:** Create an input field and a button. When the button is clicked, indicate if the number entered is positive, negative, or zero using JavaScript.
 
-### 7. Count to N
-- **Problem:** Have an input field where a user can enter a number 'N'. When they click a button, use JavaScript to display all numbers from 1 to N below the input field.
+<!-- ### 7. Count to N
+- **Problem:** Have an input field where a user can enter a number 'N'. When they click a button, use JavaScript to display all numbers from 1 to N below the input field. -->
 
 ### 8. Factorial of a Number
 - **Problem:** Provide an input field for a number. When a user clicks a button, calculate and display the factorial of that number using JavaScript.
