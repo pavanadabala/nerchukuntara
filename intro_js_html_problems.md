@@ -21,11 +21,11 @@
 ### 7. Count to N
 - **Problem:** Have an input field where a user can enter a number 'N'. When they click a button, use JavaScript to display all numbers from 1 to N below the input field.
 
-<!-- ### 8. Factorial of a Number
-- **Problem:** Provide an input field for a number. When a user clicks a button, calculate and display the factorial of that number using JavaScript. -->
+### 8. Factorial of a Number
+- **Problem:** Provide an input field for a number. When a user clicks a button, calculate and display the factorial of that number using JavaScript.
 
-### 9. Swap Two Numbers
-- **Problem:** Create two input fields for numbers and a button. When the button is clicked, use JavaScript to swap the values in the two input fields without reloading the page.
+<!-- ### 9. Swap Two Numbers
+- **Problem:** Create two input fields for numbers and a button. When the button is clicked, use JavaScript to swap the values in the two input fields without reloading the page. -->
 
 ### 10. Table of a Number
 - **Problem:** Have an input field for a number and a button. When the button is clicked, display the multiplication table of the entered number up to 10 below the input field using JavaScript.
