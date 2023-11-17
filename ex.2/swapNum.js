@@ -4,7 +4,7 @@ var num1Result = document.getElementById("num1Result");
 var num2Result = document.getElementById("num2Result");
 
 
-document.getElementById("swapBsutton").addEventListener("click", function () {
+document.getElementById("swapButton").addEventListener("click", function () {
     var temp = num1Input.value;
     num1Input.value = num2Input.value;
     num2Input.value = temp;
