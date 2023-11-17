@@ -11,4 +11,4 @@ document.getElementById("swapButton").addEventListener("click", function () {
 
     num1Result.textContent = num1Input.value;
     num2Result.textContent = num2Input.value;
-})
+});
